@@ -38,6 +38,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 
 ### Virtual Reality Links:
   - [Styly - VR public creation](https://suite.styly.cc/) 
+  - [Block Smith XR - creation of VR spaces](https://www.blocksmithxr.com/)
 
 ### 4k Broadcast
   - [4k Broadcasters](http://www.trustedreviews.com/opinion/who-will-broadcast-4k-tv-content-first-2929435)
