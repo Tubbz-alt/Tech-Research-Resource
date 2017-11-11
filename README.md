@@ -64,6 +64,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - 3D capture device for ipad - [link](https://www.kickstarter.com/projects/occipital/structure-sensor-capture-the-world-in-3d)
 
   - 3D camera capture - [WeeView](http://www.weeview.co/eng/photo.php?PKey=7610LWXoCQiSdchK6w42Lsm53odtu_LFNeEp8EIj&Class2=adc44UdHPbXNBrmuz-shfAaxWs6MlCryw2pwcow0Rg)
+  - [realsense 3d camera](https://youtu.be/uINRC83tlTA)
 
 
 
