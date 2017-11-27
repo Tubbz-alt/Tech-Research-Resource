@@ -3,7 +3,7 @@
 ## [Circle with Disney](https://www.amazon.co.uk/Circle-Disney-Parental-Controls-Wireless/dp/B019RC1EI8/ref=sr_1_1?ie=UTF8&qid=1511786482&sr=8-1&keywords=disney+circle)
 
   - Connected Home Management Device
-  - Works by 'mimicing' the main router Wi-Fi
+  - Works by 'mimicing' the main router WiFi
   - Allows for parental content filtering & time limit for devices connected to 'home' Wi-Fi
   - Set up of profiles for each family member
   - filter via categories: social media, online games .. or by specific websites: FaceBook, Twitter
@@ -23,7 +23,7 @@
 
 ## [Amazon Echo Look](https://www.cnet.com/uk/products/amazon-echo-look/review/)
 
-  - Voice controlled device to take photos of you
+  - Voice Assist device to take photos of you
   - Camera to take photos & videos of you
   - Echo Look App - stores photos on Amazon Cloud for later sharing on social media
   - Virtual stylist - compares two ensembles based on “fit, color, styling, and current trends,” and offers advice on which one you should wear. The answers are generated through an algorithm (AI), though Amazon has also consulted fashion experts, to further refine the opinions
