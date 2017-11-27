@@ -1,4 +1,4 @@
-# InfoSec Event notes - 29.11.2017
+# Event Notes - 29.11.2017
 
 ## [Circle with Disney](https://www.amazon.co.uk/Circle-Disney-Parental-Controls-Wireless/dp/B019RC1EI8/ref=sr_1_1?ie=UTF8&qid=1511786482&sr=8-1&keywords=disney+circle)
 
