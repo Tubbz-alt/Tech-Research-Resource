@@ -64,6 +64,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - 3D camera capture - [WeeView](http://www.weeview.co/eng/photo.php?PKey=7610LWXoCQiSdchK6w42Lsm53odtu_LFNeEp8EIj&Class2=adc44UdHPbXNBrmuz-shfAaxWs6MlCryw2pwcow0Rg)
   - [Realsense 3d camera](https://youtu.be/uINRC83tlTA)
   - [Lyrebird - building cutting edge speech synthesis technologies](https://lyrebird.ai/blog/create-your-voice-avatar)
+  - [Amazon Echo Look - fashion advice from Echo](https://www.cnet.com/products/amazon-echo-look/review/)
 
 
 
