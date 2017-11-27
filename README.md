@@ -35,7 +35,9 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 
 ### Internet of Things:
 
-  - If That Then This - connect devices & app together: https://ifttt.com/
+  - [If That Then This](https://ifttt.com/) - connect devices & app together
+
+  - [Data Security of IoT](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
 
 
 ### Virtual Reality Links:
@@ -48,28 +50,29 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 
 
 ### Voice Devices:
-  - https://www.theverge.com/2017/10/8/16439458/google-home-update-feature-list-skills
+  - [Google](https://www.theverge.com/2017/10/8/16439458/google-home-update-feature-list-skills)
 
 
 ### Misc. Links for tech:
 
-  - Life Saver - gyroscope in tablets example of CPR: https://life-saver.org.uk/
+  - [Life Saver](https://life-saver.org.uk/) - gyroscope in tablets example of CPR
 
-  - Trinus App - make normal PC games VR: https://www.trinusvirtualreality.com/#home
+  - [Trinus App](https://www.trinusvirtualreality.com/#home) - make normal PC games VR
 
-  - BBC R&D unconventional screens development: http://www.bbc.co.uk/rd/projects/unconventional-screens
+  - [BBC R&D unconventional screens development](http://www.bbc.co.uk/rd/projects/unconventional-screens)
 
-  - Water Drone - app controlled camera [link](https://www.kickstarter.com/projects/ziphius/ziphius-the-aquatic-drone?ref=newest)
+  - Water Drone - [app controlled camera](https://www.kickstarter.com/projects/ziphius/ziphius-the-aquatic-drone?ref=newest)
 
-  - 3D capture device for ipad - [link](https://www.kickstarter.com/projects/occipital/structure-sensor-capture-the-world-in-3d)
+  - [3D capture device for ipad](https://www.kickstarter.com/projects/occipital/structure-sensor-capture-the-world-in-3d)
 
   - 3D camera capture - [WeeView](http://www.weeview.co/eng/photo.php?PKey=7610LWXoCQiSdchK6w42Lsm53odtu_LFNeEp8EIj&Class2=adc44UdHPbXNBrmuz-shfAaxWs6MlCryw2pwcow0Rg)
-  - [realsense 3d camera](https://youtu.be/uINRC83tlTA)
+
+  - [Realsense 3d camera](https://youtu.be/uINRC83tlTA)
 
 
 
 ### Images:
 
-  - Ivan Sutherland (1968) - first working AR headset: http://www.ardummies.org/wp-content/uploads/2016/03/work.jpg
+  - Ivan Sutherland (1968) - [first working AR headset](http://www.ardummies.org/wp-content/uploads/2016/03/work.jpg)
 
 
