@@ -37,7 +37,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 
 ### Internet of Things:
 
-  - [If That Then This](https://ifttt.com/) - connect devices & app together
+  - [If This Then That](https://ifttt.com/) - connect devices & app together
   - [Data Security of IoT](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
 
 
