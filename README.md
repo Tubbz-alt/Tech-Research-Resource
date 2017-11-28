@@ -50,7 +50,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 
 
 
-### Voice Devices:
+### Voice Assistant Devices:
   - [Google Home](https://www.theverge.com/2017/10/8/16439458/google-home-update-feature-list-skills)
 
 
