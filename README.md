@@ -9,7 +9,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Acer Windows Mixed Reality headsets](https://www.youtube.com/watch?v=4PdUx2NdVe8)
 
 
-### Hololens Review
+### Hololens:
 
   - [YouTube Reiviewer](https://youtu.be/hm7qmtkf5r4)
   - [Create hologram from live video](https://www.engadget.com/2015/07/29/hololens-hologram-video-capture/)
@@ -22,7 +22,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [BBC Research & Development](http://www.bbc.co.uk/rd/projects/piero)
 
 
-### Augmented Reality links:
+### Augmented Reality:
 
   - [World Brush iOS app](https://medium.com/@activetheory/world-brush-augmented-reality-painting-7910766b2bba) - leave paintings around the world
   - [19 Crimes AR Wine Marketing](https://www.youtube.com/watch?v=uDxqdrLlDY8)
@@ -41,7 +41,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Data Security of IoT](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
 
 
-### Virtual Reality Links:
+### Virtual Reality:
   - [Styly - VR public creation](https://suite.styly.cc/) 
   - [Block Smith XR - creation of VR spaces](https://www.blocksmithxr.com/)
 
@@ -54,7 +54,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Google Home](https://www.theverge.com/2017/10/8/16439458/google-home-update-feature-list-skills)
 
 
-### Misc. Links for tech:
+### Misc. Links for Tech:
 
   - [Life Saver](https://life-saver.org.uk/) - gyroscope in tablets example of CPR
   - [Trinus App](https://www.trinusvirtualreality.com/#home) - make normal PC games VR
