@@ -25,6 +25,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 ### Augmented Reality:
 
   - [World Brush iOS app](https://medium.com/@activetheory/world-brush-augmented-reality-painting-7910766b2bba) - leave paintings around the world
+  - [Holo - AR Holograms for photos & videos](https://thisisholo.com/)
   - [19 Crimes AR Wine Marketing](https://www.youtube.com/watch?v=uDxqdrLlDY8)
   - [Affordable AR](https://www.kickstarter.com/projects/aryzon/aryzon-3d-augmented-reality-for-every-smartphone?ref=popular)
   - [GooglePal - google fitted tech from Google Glass](https://www.kickstarter.com/projects/810787439/gogglepal-the-first-ar-heads-up-display-for-any-go?ref=newest)
