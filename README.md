@@ -2,6 +2,12 @@
 
 This page is built by Melissa Wood for the purpose of being a resource for research into emerging technology.
 
+### Information Security
+
+  - [Hacker of BBC blog post](https://www.daley.cc/how-i-owned-the-bbc-with-a-simple-misconfiguration-due-to-human-laziness)
+  - [IoT 4 critical secruity challenges](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
+  - [IoT Security challenges](http://www.information-age.com/security-challenges-internet-things-123463774/)
+
 ### Mixed Reality:
 
   - [Microsoft Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets)
