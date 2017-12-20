@@ -34,6 +34,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Facebook - AR replacing TV's? Making camera first approach](https://www.inverse.com/article/31155-facebook-augmented-reality-tv)
   - [DHL Google Glass - Vision Picking](https://www.youtube.com/watch?v=I8vYrAUb0BQ)
   - [Samsung Vision Picking demo](https://www.youtube.com/watch?v=gnUK-HTn4ZA)
+  - [Fitness AR - Strava data mapped in AR Kit](https://itunes.apple.com/us/app/fitness-ar/id1274233318?mt=8)
 
 
 ### Internet of Things:
