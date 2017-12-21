@@ -30,19 +30,21 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 
 ### Augmented Reality:
 
-  - [World Brush iOS app](https://medium.com/@activetheory/world-brush-augmented-reality-painting-7910766b2bba) - leave paintings around the world
   - [Holo - AR Holograms for photos & videos](https://thisisholo.com/)
   - [19 Crimes AR Wine Marketing](https://www.youtube.com/watch?v=uDxqdrLlDY8)
   - [Affordable AR](https://www.kickstarter.com/projects/aryzon/aryzon-3d-augmented-reality-for-every-smartphone?ref=popular)
   - [GooglePal - google fitted tech from Google Glass](https://www.kickstarter.com/projects/810787439/gogglepal-the-first-ar-heads-up-display-for-any-go?ref=newest)
   - [BBC Sport - printed programmes demo](http://www.bbc.co.uk/sport/football/41042449)
-  - [BBC Sport - Install Motion Analysis' CamTrak Systems - AR to programmes](Install Motion Analysis' CamTrak Systems)
+  - [BBC Sport - Install Motion Analysis' CamTrak Systems - AR to programmes](http://www.bbc.co.uk/rd/projects/piero)
   - [Facebook - AR replacing TV's? Making camera first approach](https://www.inverse.com/article/31155-facebook-augmented-reality-tv)
   - [DHL Google Glass - Vision Picking](https://www.youtube.com/watch?v=I8vYrAUb0BQ)
   - [Samsung Vision Picking demo](https://www.youtube.com/watch?v=gnUK-HTn4ZA)
+
+### ARKit:
+  - [World Brush iOS app](https://medium.com/@activetheory/world-brush-augmented-reality-painting-7910766b2bba) - leave paintings around the world
   - [Fitness AR - Strava data mapped in AR Kit](https://itunes.apple.com/us/app/fitness-ar/id1274233318?mt=8)
   - [Animoji - ARKit TrueDepth theory](https://thenextweb.com/apple/2017/11/15/the-iphone-x-doesnt-actually-need-face-id-for-animoji-apparently/)
-
+  - [Developer demo of using TrueDepth camera and ARKit to make 3D face](https://www.theverge.com/2017/11/15/16658074/iphone-x-face-id-app-developers-3d-the-future)
 
 ### Internet of Things:
 
