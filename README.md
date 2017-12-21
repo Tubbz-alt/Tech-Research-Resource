@@ -14,12 +14,10 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Windows Marketing Video](https://youtu.be/67yLuiSfMWM)
   - [Acer Windows Mixed Reality headsets](https://www.youtube.com/watch?v=4PdUx2NdVe8)
 
-
 ### Hololens:
 
   - [YouTube Reiviewer](https://youtu.be/hm7qmtkf5r4)
   - [Create hologram from live video](https://www.engadget.com/2015/07/29/hololens-hologram-video-capture/)
-
 
 ### Broadcast examples:
   - [ITV - Dance Dance Dance](http://www.radiotimes.com/news/2017-02-12/everything-you-need-to-know-about-itvs-new-series-dance-dance-dance/)
@@ -27,6 +25,8 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Piero PDF tech details](http://www.ericsson.com/broadcastandmedia/wp-content/uploads/2015/04/PIERO-Broadcast.pdf)
   - [BBC Research & Development](http://www.bbc.co.uk/rd/projects/piero)
 
+### 5G
+  - [What will 5G mean for industry & consumer](https://www.technologyreview.com/s/603770/the-5g-economy-how-5g-will-impact-global-industries-the-economy-and-you/?set=603516)
 
 ### Augmented Reality:
 
