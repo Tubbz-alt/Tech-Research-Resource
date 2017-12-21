@@ -45,6 +45,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Fitness AR - Strava data mapped in AR Kit](https://itunes.apple.com/us/app/fitness-ar/id1274233318?mt=8)
   - [Animoji - ARKit TrueDepth theory](https://thenextweb.com/apple/2017/11/15/the-iphone-x-doesnt-actually-need-face-id-for-animoji-apparently/)
   - [Developer demo of using TrueDepth camera and ARKit to make 3D face](https://www.theverge.com/2017/11/15/16658074/iphone-x-face-id-app-developers-3d-the-future)
+  - [Apple Insider - TrueDepth & ARKit vs. Tango & Depth Sensor camera](http://appleinsider.com/articles/17/10/13/how-apples-iphone-x-truedepth-ar-waltzed-ahead-of-googles-tango)
 
 ### Internet of Things:
 
