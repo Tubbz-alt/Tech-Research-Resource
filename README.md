@@ -54,6 +54,9 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Data Security of IoT](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
   - [Zigbee](https://www.techopedia.com/definition/4390/zigbee ) - open global standard for low powered wireless devices. Echo + uses this in its built-in Home Hub
 
+### Home Management
+
+   - [ZLINK](http://markets.businessinsider.com/news/stocks/ZLINK-Partners-with-eZLO-to-Launch-ZLINK-Smart-Home-USB-powered-Hub-The-Smallest-Smart-Home-Automation-Hub-on-the-Market-1012433173) - Extends Amazon Echo devices to support ZWave devices. [IndieGoGo](https://www.indiegogo.com/projects/simple-affordable-voice-control-of-your-home-wifi#/)
 
 ### Virtual Reality:
   - [Styly - VR public creation](https://suite.styly.cc/) 
