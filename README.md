@@ -8,6 +8,10 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [IoT 4 critical secruity challenges](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
   - [IoT Security challenges](http://www.information-age.com/security-challenges-internet-things-123463774/)
 
+### AI
+
+   - [Smartphone AI](https://www.helpnetsecurity.com/2018/01/04/smartphones-ai-capabilities/) - Smartphones which will learn according to user preferences
+
 ### Mixed Reality:
 
   - [Microsoft Headsets](https://www.microsoft.com/en-us/store/collections/vrandmixedrealityheadsets)
