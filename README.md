@@ -29,6 +29,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [BBC Sport Piero AR game facts](https://www.ericsson.com/en/networked-society/live-sports-experience/4k-and-augmented-reality)
   - [Piero PDF tech details](http://www.ericsson.com/broadcastandmedia/wp-content/uploads/2015/04/PIERO-Broadcast.pdf)
   - [BBC Research & Development](http://www.bbc.co.uk/rd/projects/piero)
+  - [Snapchat NBCUniversal partnership](https://www.cnbc.com/2017/10/17/snap-teams-with-nbcuniversal-in-drive-for-tv-shows-on-snapchat.html) - TV shows on Snapchat
 
 ### 5G
   - [What will 5G mean for industry & consumer](https://www.technologyreview.com/s/603770/the-5g-economy-how-5g-will-impact-global-industries-the-economy-and-you/?set=603516)
