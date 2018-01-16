@@ -11,6 +11,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 ### AI
 
    - [Smartphone AI](https://www.helpnetsecurity.com/2018/01/04/smartphones-ai-capabilities/) - Smartphones which will learn according to user preferences
+   - [With Google - AI Experiment - Thing translator](https://oxism.com/thing-translator/) - use on smartphone for best outcome. Take photos and tries to work out what most likey it is
 
 ### Mixed Reality:
 
@@ -87,6 +88,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Realsense 3d camera](https://youtu.be/uINRC83tlTA)
   - [Lyrebird - building cutting edge speech synthesis technologies](https://lyrebird.ai/blog/create-your-voice-avatar)
   - [Amazon Echo Look - fashion advice from Echo](https://www.cnet.com/products/amazon-echo-look/review/)
+  - [Experiments with Google](https://experiments.withgoogle.com/) - Open source experiments with Google code base
 
 
 
