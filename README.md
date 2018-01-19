@@ -12,6 +12,9 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 
    - [Smartphone AI](https://www.helpnetsecurity.com/2018/01/04/smartphones-ai-capabilities/) - Smartphones which will learn according to user preferences
    - [With Google - AI Experiment - Thing translator](https://oxism.com/thing-translator/) - use on smartphone for best outcome. Take photos and tries to work out what most likey it is
+   - [Alexa skill development](https://github.com/alexa)
+   - [Google AutoDraw](https://www.autodraw.com/) - smart draw to let Google's AI to suggest images for you. [Drawing tool experiment](https://experiments.withgoogle.com/chrome/autodraw)
+   - [Googles Font Map](http://fontmap.ideo.com/) - a tool that helps designers understand and see relationships across more than 750 web fonts
 
 ### Mixed Reality:
 
