@@ -1,6 +1,6 @@
-# Tech demonstrator research
+# Tech Demonstrator Research
 
-This page is built by Melissa Wood for the purpose of being a resource for research into emerging technology.
+Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of being a resource for research into emerging technology.
 
 ### Information Security
 
