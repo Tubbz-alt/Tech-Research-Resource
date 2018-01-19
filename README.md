@@ -34,6 +34,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Piero PDF tech details](http://www.ericsson.com/broadcastandmedia/wp-content/uploads/2015/04/PIERO-Broadcast.pdf)
   - [BBC Research & Development](http://www.bbc.co.uk/rd/projects/piero)
   - [Snapchat NBCUniversal partnership](https://www.cnbc.com/2017/10/17/snap-teams-with-nbcuniversal-in-drive-for-tv-shows-on-snapchat.html) - TV shows on Snapchat
+  - [HDR broadcasting &amp; screen tech](https://www.ibc.org/delivery/high-dynamic-range-the-different-standards/1872.article)
 
 ### 5G
   - [What will 5G mean for industry & consumer](https://www.technologyreview.com/s/603770/the-5g-economy-how-5g-will-impact-global-industries-the-economy-and-you/?set=603516)
@@ -70,15 +71,13 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
 ### Virtual Reality:
   - [Styly - VR public creation](https://suite.styly.cc/) 
   - [Block Smith XR - creation of VR spaces](https://www.blocksmithxr.com/)
+  - [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro/) - new for 2018!
 
 ### 4k Broadcast
   - [4k Broadcasters](http://www.trustedreviews.com/opinion/who-will-broadcast-4k-tv-content-first-2929435)
 
-
-
 ### Voice Assistant Devices:
   - [Google Home](https://www.theverge.com/2017/10/8/16439458/google-home-update-feature-list-skills)
-
 
 ### Misc. Links for Tech:
 
@@ -92,8 +91,7 @@ This page is built by Melissa Wood for the purpose of being a resource for resea
   - [Lyrebird - building cutting edge speech synthesis technologies](https://lyrebird.ai/blog/create-your-voice-avatar)
   - [Amazon Echo Look - fashion advice from Echo](https://www.cnet.com/products/amazon-echo-look/review/)
   - [Experiments with Google](https://experiments.withgoogle.com/) - Open source experiments with Google code base
-
-
+  - [CES 2018 - round up of the best](http://www.trustedreviews.com/news/ces-2018-best-highlights-news-3350586)
 
 ### Images:
 
