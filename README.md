@@ -72,6 +72,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Styly - VR public creation](https://suite.styly.cc/) 
   - [Block Smith XR - creation of VR spaces](https://www.blocksmithxr.com/)
   - [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro/) - new for 2018!
+  - [VR for tourism - Thomas Cook](http://visualise.com/case-study/thomas-cook-virtual-holiday)
 
 ### 4k Broadcast
   - [4k Broadcasters](http://www.trustedreviews.com/opinion/who-will-broadcast-4k-tv-content-first-2929435)
