@@ -41,6 +41,7 @@
   - rasberry pi's 
   - relying on education to deliver careers - wont do very well. reach out and grab
   - sayspring.com expand on amazon echo
+  - tv screens set backgrounds for all tvs
 
 ## The How..
 
