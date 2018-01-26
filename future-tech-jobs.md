@@ -9,7 +9,10 @@
   - Music creators &amp; producers
   - Further reading / source / credits:
     - [Alexa Skill development as a gateway to a cloud computing job](https://medium.freecodecamp.org/why-learning-to-code-alexa-skills-is-the-gateway-to-a-cloud-computing-job-fa13c1c0c853)
-    - [Alexa code examples &amp; repositories](https://github.com/alexa)     
+    - [Alexa code examples &amp; repositories](https://github.com/alexa)    
+    - Physcology communication / interaction
+    - Tradiontal radio skills
+    - comedy writers
   
 ### HTC Vive
   - Engineers - C#, C++, Unity or Unreal
@@ -17,6 +20,7 @@
   - Artists - 3D modeling/animation tool (e.g. Blender, which is free, or 3DS Max
   - Music / Audio creators - audio middleware Wwise,  FMOD &amp; free Oculus Audio SDK
   - Testers - both development &amp; game players
+  - Script editing 
   - Further reading / source / credits:
     - [Skills required &amp; the jobs available in VR](https://virtualrealitypop.com/how-to-get-a-job-in-vr-fff5c9d56a13)
     - VR engines - [Unreal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) &amp; [Unity](https://unity3d.com/)
@@ -33,6 +37,10 @@
 
 ### Misc notes to engage / connect with younger kids
   - [Roblox](https://corp.roblox.com/careers/) - school craze. exposure to creating 3D environments, 3D game play. Show the jobs page - [https://corp.roblox.com/careers/](https://corp.roblox.com/careers/)
+  - minecraft
+  - rasberry pi's 
+  - relying on education to deliver careers - wont do very well. reach out and grab
+  - sayspring.com expand on amazon echo
 
 ## The How..
 
