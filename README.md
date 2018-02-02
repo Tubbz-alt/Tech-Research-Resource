@@ -10,6 +10,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
 
 ### AI
 
+   - [Google's DeepMind](http://www.telegraph.co.uk/technology/google/11684183/Googles-artificial-intelligence-interprets-photos-as-animals-with-creepy-results.html) - [Photo results](https://goo.gl/photos/fFcivHZ2CDhqCkZdA)
    - [Smartphone AI](https://www.helpnetsecurity.com/2018/01/04/smartphones-ai-capabilities/) - Smartphones which will learn according to user preferences
    - [With Google - AI Experiment - Thing translator](https://oxism.com/thing-translator/) - use on smartphone for best outcome. Take photos and tries to work out what most likey it is
    - [Alexa skill development](https://github.com/alexa)
