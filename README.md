@@ -68,6 +68,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
 ### Home Management
 
    - [ZLINK](http://markets.businessinsider.com/news/stocks/ZLINK-Partners-with-eZLO-to-Launch-ZLINK-Smart-Home-USB-powered-Hub-The-Smallest-Smart-Home-Automation-Hub-on-the-Market-1012433173) - Extends Amazon Echo devices to support ZWave devices. [IndieGoGo](https://www.indiegogo.com/projects/simple-affordable-voice-control-of-your-home-wifi#/)
+   - [Google reunites Nest for bring Google AI to smart home devices](https://www.cnet.com/news/google-and-nest-reunite-in-push-to-add-ai-to-every-gadget/)
 
 ### Virtual Reality:
   - [Styly - VR public creation](https://suite.styly.cc/) 
