@@ -16,6 +16,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
    - [Alexa skill development](https://github.com/alexa)
    - [Google AutoDraw](https://www.autodraw.com/) - smart draw to let Google's AI to suggest images for you. [Drawing tool experiment](https://experiments.withgoogle.com/chrome/autodraw)
    - [Googles Font Map](http://fontmap.ideo.com/) - a tool that helps designers understand and see relationships across more than 750 web fonts
+   - [The truth behind Google AI Experiments](https://www.fastcodesign.com/90152774/the-dead-serious-strategy-behind-googles-silly-ai-experiments)
 
 ### Mixed Reality:
 
