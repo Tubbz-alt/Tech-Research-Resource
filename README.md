@@ -53,6 +53,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Facebook - AR replacing TV's? Making camera first approach](https://www.inverse.com/article/31155-facebook-augmented-reality-tv)
   - [DHL Google Glass - Vision Picking](https://www.youtube.com/watch?v=I8vYrAUb0BQ)
   - [Samsung Vision Picking demo](https://www.youtube.com/watch?v=gnUK-HTn4ZA)
+  - [Iron Man AR mask game](https://www.cnet.com/pictures/hasbro-marvel-avengers-infinity-war-hero-vision-iron-man-ar-experience-photos/)
 
 ### ARKit:
   - [World Brush iOS app](https://medium.com/@activetheory/world-brush-augmented-reality-painting-7910766b2bba) - leave paintings around the world
