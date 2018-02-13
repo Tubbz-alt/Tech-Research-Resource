@@ -7,6 +7,8 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Hacker of BBC blog post](https://www.daley.cc/how-i-owned-the-bbc-with-a-simple-misconfiguration-due-to-human-laziness)
   - [IoT 4 critical secruity challenges](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
   - [IoT Security challenges](http://www.information-age.com/security-challenges-internet-things-123463774/)
+  - [Swedish Land Registry Blockchain process](https://qz.com/947064/sweden-is-turning-a-blockchain-powered-land-registry-into-a-reality/)
+  - [Blockchain for food industry](https://www.cnet.com/news/bitcoin-technology-has-a-new-purpose-fight-food-fraud/)
 
 ### AI
 
