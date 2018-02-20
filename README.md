@@ -21,6 +21,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
    - [The truth behind Google AI Experiments](https://www.fastcodesign.com/90152774/the-dead-serious-strategy-behind-googles-silly-ai-experiments)
    - [Amazon Rekognition - Deep Learning-based image & video analyser](https://aws.amazon.com/rekognition/)
    - [AI driven Health Assistants - Chatbots](https://chatbotslife.com/artificial-intelligence-based-virtual-health-assistants-the-new-disruptors-42e9f2b44d40)
+   - [AI driven Chatbot - Jubi](https://www.jubi.ai/)
 
 ### Mixed Reality:
 
