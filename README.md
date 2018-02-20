@@ -20,6 +20,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
    - [Googles Font Map](http://fontmap.ideo.com/) - a tool that helps designers understand and see relationships across more than 750 web fonts
    - [The truth behind Google AI Experiments](https://www.fastcodesign.com/90152774/the-dead-serious-strategy-behind-googles-silly-ai-experiments)
    - [Amazon Rekognition - Deep Learning-based image & video analyser](https://aws.amazon.com/rekognition/)
+   - [AI driven Health Assistants - Chatbots](https://chatbotslife.com/artificial-intelligence-based-virtual-health-assistants-the-new-disruptors-42e9f2b44d40)
 
 ### Mixed Reality:
 
