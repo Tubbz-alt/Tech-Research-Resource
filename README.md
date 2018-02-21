@@ -88,6 +88,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
 
 ### Voice Assistant Devices:
   - [Google Home](https://www.theverge.com/2017/10/8/16439458/google-home-update-feature-list-skills)
+  - [Sphero Spiderman toy - security (last paragraph)](https://www.techadvisor.co.uk/review/accessories/sphero-spider-man-review-3660149/)
 
 ### Misc. Links for Tech:
 
