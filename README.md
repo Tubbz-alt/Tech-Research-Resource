@@ -2,6 +2,10 @@
 
 Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of being a resource for research into emerging technology.
 
+### TechnoSapian / Wellbeing
+
+  - [Apple's CEO, Tim Cook - don't let kids use social media](https://www.cnbc.com/2018/01/23/apple-ceo-tim-cook-dont-let-your-kids-use-social-media.html)
+
 ### Information Security
 
   - [Hacker of BBC blog post](https://www.daley.cc/how-i-owned-the-bbc-with-a-simple-misconfiguration-due-to-human-laziness)
