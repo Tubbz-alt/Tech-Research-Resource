@@ -2,6 +2,15 @@
 
 Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of being a resource for research into emerging technology.
 
+### Cryptocurrency
+
+  - [The future of Cryptocurrency](https://www.technologyreview.com/s/610202/like-it-or-not-the-future-of-cryptocurrency-will-be-determined-by-bureaucrats/)
+  - [Mark Carney - Bank of England - cryptocurrency requires regulation](https://www.theguardian.com/business/2018/mar/02/bitcoin-faces-regulatory-crackdown-bank-england-warns)
+  - [Llyods banning purchase of Cryptocurrency on credit cards](https://www.theguardian.com/business/2018/feb/05/lloyds-bank-bans-buying-bitcoins-credit-cards)
+  - [Bank of England](https://www.bankofengland.co.uk/research/digital-currencies)
+  - [Financial Times - banks and the impact of Amazon](https://www.ft.com/content/ab5d8698-f530-11e7-8715-e94187b3017e)
+
+
 ### TechnoSapian / Wellbeing
 
   - [Apple's CEO, Tim Cook - don't let kids use social media](https://www.cnbc.com/2018/01/23/apple-ceo-tim-cook-dont-let-your-kids-use-social-media.html)
