@@ -117,6 +117,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Amazon Echo Look - fashion advice from Echo](https://www.cnet.com/products/amazon-echo-look/review/)
   - [Experiments with Google](https://experiments.withgoogle.com/) - Open source experiments with Google code base
   - [CES 2018 - round up of the best](http://www.trustedreviews.com/news/ces-2018-best-highlights-news-3350586)
+  - [Impact of Scoail Media on Journalism](https://www.ing.com/Newsroom/All-news/Social-media-has-a-growing-impact-on-the-news-SMING15.htm)
 
 ### Images:
 
