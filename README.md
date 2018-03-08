@@ -118,6 +118,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Experiments with Google](https://experiments.withgoogle.com/) - Open source experiments with Google code base
   - [CES 2018 - round up of the best](http://www.trustedreviews.com/news/ces-2018-best-highlights-news-3350586)
   - [Impact of Scoail Media on Journalism](https://www.ing.com/Newsroom/All-news/Social-media-has-a-growing-impact-on-the-news-SMING15.htm)
+  - [Wellness in children & social media - Childrens Commissioner 2017 report](https://www.childrenscommissioner.gov.uk/wp-content/uploads/2018/01/Childrens-Commissioner-for-England-Life-in-Likes.pdf)
 
 ### Images:
 
