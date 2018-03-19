@@ -18,6 +18,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
 ### TechnoSapian / Wellbeing
 
   - [Apple's CEO, Tim Cook - don't let kids use social media](https://www.cnbc.com/2018/01/23/apple-ceo-tim-cook-dont-let-your-kids-use-social-media.html)
+  - [Report into youth and social media effects](https://www.rsph.org.uk/uploads/assets/uploaded/62be270a-a55f-4719-ad668c2ec7a74c2a.pdf)
 
 ### Information Security
 
