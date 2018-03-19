@@ -35,6 +35,10 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
    - [Amazon Rekognition - Deep Learning-based image & video analyser](https://aws.amazon.com/rekognition/)
    - [AI driven Health Assistants - Chatbots](https://chatbotslife.com/artificial-intelligence-based-virtual-health-assistants-the-new-disruptors-42e9f2b44d40)
    - [AI driven Chatbot - Jubi](https://www.jubi.ai/)
+   - [IBM's Watson - question / answer machine learning computer. 19 companies of how using Watson](https://www.computerworlduk.com/galleries/it-vendors/innovative-ways-companies-are-using-ibm-watson-3585847/)
+   - [AI for fighting crime](https://www.weforum.org/agenda/2018/02/ai-that-was-developed-to-prepare-astronauts-for-space-is-now-being-employed-to-solve-crimes)
+   - [China Law AI - predicting crimes before they happen](https://futurism.com/chinas-minority-report-style-plans-will-use-ai-to-predict-who-will-commit-crimes/)
+   - [Dubai's robot police force member](https://futurism.com/dubais-newest-addition-police-force-robot/)
 
 ### Mixed Reality:
 
