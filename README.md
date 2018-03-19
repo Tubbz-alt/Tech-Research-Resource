@@ -10,6 +10,10 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Bank of England](https://www.bankofengland.co.uk/research/digital-currencies)
   - [Financial Times - banks and the impact of Amazon](https://www.ft.com/content/ab5d8698-f530-11e7-8715-e94187b3017e)
 
+### Extended Reality (XR)
+
+   - [Entended Reality](http://www.thedrum.com/opinion/2018/03/06/sxsw-extended-reality-will-call-end-distance-we-know-it)
+
 
 ### TechnoSapian / Wellbeing
 
