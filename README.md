@@ -94,6 +94,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [If This Then That](https://ifttt.com/) - connect devices & app together
   - [Data Security of IoT](https://www.networkworld.com/article/3166106/internet-of-things/4-critical-security-challenges-facing-iot.html)
   - [Zigbee](https://www.techopedia.com/definition/4390/zigbee ) - open global standard for low powered wireless devices. Echo + uses this in its built-in Home Hub
+  - [Amazon Echo Alexa stats](https://www.voicebot.ai/amazon-echo-alexa-stats/)
 
 ### Home Management
 
