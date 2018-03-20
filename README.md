@@ -27,6 +27,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [IoT Security challenges](http://www.information-age.com/security-challenges-internet-things-123463774/)
   - [Swedish Land Registry Blockchain process](https://qz.com/947064/sweden-is-turning-a-blockchain-powered-land-registry-into-a-reality/)
   - [Blockchain for food industry](https://www.cnet.com/news/bitcoin-technology-has-a-new-purpose-fight-food-fraud/)
+  - [FaceBook feed - feed algorythms](https://techcrunch.com/2016/09/06/ultimate-guide-to-the-news-feed/)
 
 ### AI
 
@@ -64,6 +65,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [BBC Research & Development](http://www.bbc.co.uk/rd/projects/piero)
   - [Snapchat NBCUniversal partnership](https://www.cnbc.com/2017/10/17/snap-teams-with-nbcuniversal-in-drive-for-tv-shows-on-snapchat.html) - TV shows on Snapchat
   - [HDR broadcasting &amp; screen tech](https://www.ibc.org/delivery/high-dynamic-range-the-different-standards/1872.article)
+  - [Disney - broadcast](http://variety.com/2018/digital/news/disney-reorganizes-direct-to-consumer-streaming-unit-1202726528/amp/)
 
 ### 5G
   - [What will 5G mean for industry & consumer](https://www.technologyreview.com/s/603770/the-5g-economy-how-5g-will-impact-global-industries-the-economy-and-you/?set=603516)
