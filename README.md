@@ -20,6 +20,9 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Apple's CEO, Tim Cook - don't let kids use social media](https://www.cnbc.com/2018/01/23/apple-ceo-tim-cook-dont-let-your-kids-use-social-media.html)
   - [Report into youth and social media effects](https://www.rsph.org.uk/uploads/assets/uploaded/62be270a-a55f-4719-ad668c2ec7a74c2a.pdf)
 
+### Social Media
+  - [Snap Mapping - Snapchat's global map of snaps in 'Our Stoies'](https://mashable.com/2018/02/12/snapchat-snap-maps-web-player-/#Qocnty69_mqI) and [map page](https://map.snapchat.com/)
+
 ### Information Security
 
   - [Hacker of BBC blog post](https://www.daley.cc/how-i-owned-the-bbc-with-a-simple-misconfiguration-due-to-human-laziness)
