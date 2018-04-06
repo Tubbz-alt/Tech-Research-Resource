@@ -117,6 +117,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
   - [Block Smith XR - creation of VR spaces](https://www.blocksmithxr.com/)
   - [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro/) - new for 2018!
   - [Visualise VR - Thomas Cook example](http://visualise.com/case-study/thomas-cook-virtual-holiday) / [Visualise VR Thomas Cook 'Fly Before You Buy'](http://visualisebeta.wpengine.com/case-study/thomas-cook-airlines-fantasy-flight) / [Visualise VR - VR for tourism](http://visualise.com/virtual-reality/virtual-reality-travel-tourism)
+  - [How the R&D team recording Turning Forest Binural Audio & Synced to VR](https://www.youtube.com/watch?v=51za5u3LtEc)
 
 ### 4k Broadcast
   - [4k Broadcasters](http://www.trustedreviews.com/opinion/who-will-broadcast-4k-tv-content-first-2929435)
