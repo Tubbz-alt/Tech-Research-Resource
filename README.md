@@ -72,6 +72,10 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
 ### 5G
   - [What will 5G mean for industry & consumer](https://www.technologyreview.com/s/603770/the-5g-economy-how-5g-will-impact-global-industries-the-economy-and-you/?set=603516)
 
+
+### Economics
+  - [Snap in talks to set up in Saudi Arabia in bid to overhaul the otherwise oil-rich economy by 2030 focussed on a domestic technology sector](https://www.cnbc.com/2018/04/03/snap-is-in-talks-to-set-up-shop-in-saudi-arabia.html)
+
 ### Augmented Reality:
 
   - [Holo - AR Holograms for photos & videos](https://thisisholo.com/)
