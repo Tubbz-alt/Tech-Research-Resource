@@ -31,4 +31,5 @@
   - 4 LED lights for flash
   - Depth-sensing, 5-megapixel Camera
 
+{% include footer.html %}
 
