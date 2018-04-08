@@ -49,6 +49,7 @@ Put together by [Melissa Wood](http://melissawood.co.uk/) for the purpose of bei
    - [China Law AI - predicting crimes before they happen](https://futurism.com/chinas-minority-report-style-plans-will-use-ai-to-predict-who-will-commit-crimes/)
    - [Dubai's robot police force member](https://futurism.com/dubais-newest-addition-police-force-robot/)
    - [Alexa available on iOS](https://techcrunch.com/2018/03/12/alexa-calling-and-messaging-comes-to-tablet-devices/)
+   - [AI startup Knowhere - produces non-biased news](https://futurism.com/ai-journalist-media-bias-news-knowhere/amp/)
 
 ### Mixed Reality:
 
