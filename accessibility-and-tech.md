@@ -13,11 +13,11 @@
 
 
 ### Use cases for AR
-  - for sign language: broadcast potential for customisable sign presenter via 'second screen' AR app. Augmen.tv is an xample of this being applied.
+  - for sign language: broadcast potential for customisable sign presenter via 'second screen' AR app. Augmen.tv is an example of this being applied.
 
 ### Use cases for Misc tech:
-  - Apps: language translations, object identifyers
+  - Apps: language translations, object identifying
   - 3D printers: cheaper, quicker and robust way to create and provide prosthetics to the mases
 
 ### Misc notes
-  - more about existing devices building in 'good features' and not just about creating features for disabilities. If accessibility for disability is the main reason, fine, however good design should already accomodate for this as opposed to having accessibility features as seperate reason. So changing thinking about accessibility on it's head.
+  - more about existing devices building in 'good features' and not just about creating features for disabilities. If accessibility for disability is the main reason, fine, however good design should already accomodate for this as opposed to having accessibility features as seperate reason. So changing the way we think about accessibility to be normal not different.
