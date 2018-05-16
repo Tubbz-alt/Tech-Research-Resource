@@ -20,5 +20,4 @@
   - 3D printers: cheaper, quicker and robust way to create and provide prosthetics to the mases
 
 ### Misc notes
-  - more about existing devices building in 'good features' and not just about creating features for disabilities. If accessibility for disability is the main reason, fine, however good design should already accomodate for this as opposed to having accessibility features as seperate reason. 
-  - 
+  - more about existing devices building in 'good features' and not just about creating features for disabilities. If accessibility for disability is the main reason, fine, however good design should already accomodate for this as opposed to having accessibility features as seperate reason. So changing thinking about accessibility on it's head.
